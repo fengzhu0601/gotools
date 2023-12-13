@@ -2,7 +2,6 @@ package cache
 
 import (
 	"cache/bulk"
-	"github.com/fengzhu0601/goproject/go_tool/logger"
 )
 
 type updater struct {

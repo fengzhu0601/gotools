@@ -2,7 +2,7 @@ package cache
 
 import (
 	"cache/cargo"
-	"github.com/fengzhu0601/goproject/go_tool/logger"
+	"github.com/fengzhu0601/gotools/logger"
 	"reflect"
 	"sync"
 	"sync/atomic"

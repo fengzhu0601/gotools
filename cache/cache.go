@@ -6,7 +6,7 @@ import (
 	"reflect"
 	"time"
 
-	"github.com/fengzhu0601/goproject/go_tool/logger"
+	"github.com/fengzhu0601/gotools/logger"
 
 	gormlog "gorm.io/gorm/logger"
 

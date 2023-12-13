@@ -2,7 +2,6 @@ package cache
 
 import (
 	"fmt"
-	"github.com/fengzhu0601/goproject/go_tool/logger"
 	"reflect"
 	"time"
 )

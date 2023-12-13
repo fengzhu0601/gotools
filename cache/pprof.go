@@ -1,7 +1,6 @@
 package cache
 
 import (
-	"github.com/fengzhu0601/goproject/go_tool/logger"
 	"html/template"
 	"net/http"
 	"os"
