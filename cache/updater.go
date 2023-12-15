@@ -2,6 +2,7 @@ package cache
 
 import (
 	"github.com/fengzhu0601/gotools/cache/bulk"
+	"github.com/fengzhu0601/gotools/logger"
 )
 
 type updater struct {

@@ -2,6 +2,7 @@ package bulk
 
 import (
 	"fmt"
+	"github.com/fengzhu0601/gotools/logger"
 	"reflect"
 	"strings"
 
