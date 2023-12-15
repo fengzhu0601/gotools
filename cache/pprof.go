@@ -1,6 +1,7 @@
 package cache
 
 import (
+	"github.com/fengzhu0601/gotools/logger"
 	"html/template"
 	"net/http"
 	"os"
