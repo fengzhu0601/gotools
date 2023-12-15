@@ -1,7 +1,7 @@
 package cache
 
 import (
-	"cache/bulk"
+	"github.com/fengzhu0601/gotools/cache/bulk"
 )
 
 type updater struct {
