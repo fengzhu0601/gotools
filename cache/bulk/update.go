@@ -6,6 +6,7 @@ import (
 	"regexp"
 	"strings"
 
+	"github.com/fengzhu0601/gotools/logger"
 	"gorm.io/gorm"
 )
 
